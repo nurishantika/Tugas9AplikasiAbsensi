@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Absensi</string>
+    <string name="hint_word">Isikan Nama</string>
+    <string name="button_save">Simpan</string>
+    <string name="button_delete">Hapus Semua Data</string>
+    <string name="empty_not_saved">Mohon isikan nama anda!</string>
+</resources>
